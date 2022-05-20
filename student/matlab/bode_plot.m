@@ -11,7 +11,7 @@ s = serialport(port_name,baud_rate);
 Ts = 0.001;
 End_Time = 20;
 Start_Frequency = 0;
-End_Frequency = 500;
+End_Frequency = 200;
 
 % Data list
 time_list = zeros(End_Time/Ts,1);
