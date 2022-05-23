@@ -1,9 +1,13 @@
 # control_engineering_practice
 ## 엔코더
-![image](https://user-images.githubusercontent.com/53217819/169751228-b02a9d0b-6339-4171-9d99-0130cabd8fa8.png)
+![image](https://user-images.githubusercontent.com/53217819/169794898-df0464e7-8eb4-4cfb-8e3d-e8635f258201.png)
+
 ## PWM
-![image](https://user-images.githubusercontent.com/53217819/169724780-8a889b1d-b379-48c7-843a-b2135ad5b67a.png)
+![image](https://user-images.githubusercontent.com/53217819/169795045-254c1051-d763-4d86-83d3-4829c705504e.png)
+
 ## Bump Test
-![image](https://user-images.githubusercontent.com/53217819/169727970-3dcfc824-f2aa-4f4a-ab44-39ac5d3268f4.png)
+![image](https://user-images.githubusercontent.com/53217819/169795431-6f396cb0-be67-46a4-8952-09b3c177d27c.png)
+
+
 ## Bode Plot
-![image](https://user-images.githubusercontent.com/53217819/169725668-152dc626-f7c1-4173-8c8f-01dfeac89e69.png)
+![image](https://user-images.githubusercontent.com/53217819/169794701-7c0684de-a1fb-40fa-b059-7cc2daed07a3.png)
