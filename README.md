@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/53217819/169794898-df0464e7-8eb4-4cfb-8e3d-e8635f258201.png)
 
 ## PWM
-![image](https://user-images.githubusercontent.com/53217819/169795045-254c1051-d763-4d86-83d3-4829c705504e.png)
+![image](https://user-images.githubusercontent.com/53217819/169796055-a13a8d4a-f896-4adb-afcf-722ed37a48a2.png)
 
 ## Bump Test
 ![image](https://user-images.githubusercontent.com/53217819/169795431-6f396cb0-be67-46a4-8952-09b3c177d27c.png)
