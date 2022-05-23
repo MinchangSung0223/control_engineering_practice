@@ -4,6 +4,6 @@
 ## PWM
 ![image](https://user-images.githubusercontent.com/53217819/169724780-8a889b1d-b379-48c7-843a-b2135ad5b67a.png)
 ## Bump Test
-![image](https://user-images.githubusercontent.com/53217819/169724765-899b3b94-3a23-465a-a9d2-7dbf20b7300f.png)
+![image](https://user-images.githubusercontent.com/53217819/169727970-3dcfc824-f2aa-4f4a-ab44-39ac5d3268f4.png)
 ## Bode Plot
 ![image](https://user-images.githubusercontent.com/53217819/169725668-152dc626-f7c1-4173-8c8f-01dfeac89e69.png)
