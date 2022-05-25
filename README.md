@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/53217819/169796055-a13a8d4a-f896-4adb-afcf-722ed37a48a2.png)
 
 ## Bump Test
-![image](https://user-images.githubusercontent.com/53217819/169795431-6f396cb0-be67-46a4-8952-09b3c177d27c.png)
+![image](https://user-images.githubusercontent.com/53217819/170157435-bc3843c8-657b-4c4e-b97d-085fab3d7a8e.png)
 
 Bump Test 실습결과를 잘 적어야 합니다. * lowpass filter 중요
 
