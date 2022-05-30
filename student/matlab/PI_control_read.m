@@ -54,6 +54,6 @@ G = 0;  % 이 부분을 알맞게 수정하시오
 
 G_d = c2d(G,0.001,'zoh');
 step(G,'-',G_d,'--')
-axis([0 time_list(end) 0 max(pos_list./target_value)])
+axis([0 time_list(end) 0 max(vel_list./target_value)])
 
 
