@@ -134,7 +134,7 @@ void setup() {
   MsTimer2::set(1, control);      
   MsTimer2::start();              
   attachInterrupt(0, doEncoderA, CHANGE);   
-
+  attachInterrupt(1, doEncoderB, CHANGE);  
   // motor stop
   digitalWrite(IN1, 0);         
   digitalWrite(IN2, 0);         
